@@ -66,16 +66,6 @@ Meu objetivo é criar soluções eficientes, modernas e profissionais, ajudando 
 
 ---
 
-# 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🌎 Conecte-se comigo
 
 <div align="center">
