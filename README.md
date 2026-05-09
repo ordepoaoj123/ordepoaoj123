@@ -1,16 +1,122 @@
-## Hi there 👋
+# 👨‍💻 João Pedro
 
-<!--
-**ordepoaoj123/ordepoaoj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Full+Stack;Estudando+Ciberseguran%C3%A7a;React+%7C+Node.js+%7C+TypeScript;Construindo+solu%C3%A7%C3%B5es+modernas+e+eficientes" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+💻 Desenvolvedor Web Full Stack em formação pela **DevClub**.
+
+Tenho experiência no desenvolvimento de interfaces modernas, responsivas e focadas na melhor experiência do usuário, utilizando tecnologias como:
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Node.js
+* Python
+* SQL
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+* 🔐 Cibersegurança
+* ⚡ Desenvolvimento Full Stack
+* 🛡️ Segurança de aplicações web
+* ☁️ Tecnologias modernas para web
+
+Meu objetivo é criar soluções eficientes, modernas e profissionais, ajudando empresas a fortalecer sua presença digital através da tecnologia.
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+
+### Back-End
+
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
+
+### Banco de Dados & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+
+</div>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joaopedrocostasantosmelo10" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:SEUEMAIL@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🧠 Atualmente aprendendo
+
+```txt
+[███████████████░░░░░] Full Stack
+[████████████░░░░░░░] Cibersegurança
+[███████████░░░░░░░░] Back-End Avançado
+[██████████████░░░░░] React & TypeScript
+```
+
+---
+
+# ⚡ Diferenciais
+
+✔️ Interfaces modernas e responsivas
+✔️ Foco em experiência do usuário (UI/UX)
+✔️ Aprendizado rápido
+✔️ Interesse em segurança digital
+✔️ Evolução constante em desenvolvimento web
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo, construindo e evoluindo.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer" />
+
+</div>
