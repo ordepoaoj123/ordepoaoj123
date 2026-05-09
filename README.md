@@ -1,4 +1,14 @@
+<div align="center">
+
 # 👨‍💻 João Pedro
+
+### 🚀 Desenvolvedor Full Stack • Cybersecurity Student • Web Developer
+
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<img src="https://img.shields.io/github/followers/SEU-USUARIO?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/SEU-USUARIO?affiliations=OWNER&style=social" />
+
+</div>
 
 <div align="center">
 
@@ -30,7 +40,21 @@ Atualmente, estou aprofundando meus conhecimentos em:
 * 🛡️ Segurança de aplicações web
 * ☁️ Tecnologias modernas para web
 
-Meu objetivo é criar soluções eficientes, modernas e profissionais, ajudando empresas a fortalecer sua presença digital através da tecnologia.
+Meu objetivo é criar soluções eficientes, modernas e escaláveis, combinando desenvolvimento web e segurança digital para entregar experiências confiáveis e profissionais.
+
+Tenho foco em evolução constante, aprendizado rápido e construção de projetos reais que gerem impacto.
+
+Atualmente, busco oportunidades para ganhar experiência prática, colaborar em projetos profissionais e crescer na área de tecnologia.
+
+---
+
+# 💼 Stack Principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,git,github,vscode" />
+
+</div>
 
 ---
 
@@ -54,6 +78,16 @@ Meu objetivo é criar soluções eficientes, modernas e profissionais, ajudando 
 
 ---
 
+# 🏆 Objetivos Profissionais
+
+* 🔥 Evoluir como Desenvolvedor Full Stack
+* 🔐 Especialização em Cibersegurança
+* 🌐 Construção de aplicações modernas e seguras
+* 📚 Aprendizado contínuo em tecnologias web
+* 🚀 Participação em projetos reais e open source
+
+---
+
 # 📊 Estatísticas GitHub
 
 <div align="center">
@@ -61,6 +95,16 @@ Meu objetivo é criar soluções eficientes, modernas e profissionais, ajudando 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -93,6 +137,17 @@ Meu objetivo é criar soluções eficientes, modernas e profissionais, ajudando 
 
 ---
 
+# 🧩 Soft Skills
+
+✔️ Comunicação clara
+✔️ Facilidade em aprender novas tecnologias
+✔️ Pensamento analítico
+✔️ Resolução de problemas
+✔️ Adaptabilidade
+✔️ Organização e dedicação
+
+---
+
 # ⚡ Diferenciais
 
 ✔️ Interfaces modernas e responsivas
@@ -105,8 +160,11 @@ Meu objetivo é criar soluções eficientes, modernas e profissionais, ajudando 
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, construindo e evoluindo.
+### 🚀 Transformando aprendizado em soluções reais através da tecnologia.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer" />
 
 </div>
+
+---
+
