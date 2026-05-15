@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👨‍💻 João Pedro
+# João Pedro
 
-### 🚀 Desenvolvedor Full Stack • Cybersecurity Student • Web Developer
+### Desenvolvedor Full Stack • Cybersecurity Student • Web Developer
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-<img src="https://img.shields.io/github/followers/SEU-USUARIO?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/SEU-USUARIO?affiliations=OWNER&style=social" />
+
 
 </div>
 
@@ -18,9 +16,9 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-💻 Desenvolvedor Web Full Stack em formação pela **DevClub**.
+ Desenvolvedor Web Full Stack em formação pela **DevClub**.
 
 Tenho experiência no desenvolvimento de interfaces modernas, responsivas e focadas na melhor experiência do usuário, utilizando tecnologias como:
 
@@ -35,10 +33,10 @@ Tenho experiência no desenvolvimento de interfaces modernas, responsivas e foca
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
-* 🔐 Cibersegurança
-* ⚡ Desenvolvimento Full Stack
-* 🛡️ Segurança de aplicações web
-* ☁️ Tecnologias modernas para web
+*  Cibersegurança
+*  Desenvolvimento Full Stack
+*  Segurança de aplicações web
+*  Tecnologias modernas para web
 
 Meu objetivo é criar soluções eficientes, modernas e escaláveis, combinando desenvolvimento web e segurança digital para entregar experiências confiáveis e profissionais.
 
@@ -48,7 +46,7 @@ Atualmente, busco oportunidades para ganhar experiência prática, colaborar em 
 
 ---
 
-# 💼 Stack Principal
+#  Stack Principal
 
 <div align="center">
 
@@ -58,7 +56,7 @@ Atualmente, busco oportunidades para ganhar experiência prática, colaborar em 
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+#  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -78,17 +76,17 @@ Atualmente, busco oportunidades para ganhar experiência prática, colaborar em 
 
 ---
 
-# 🏆 Objetivos Profissionais
+#  Objetivos Profissionais
 
-* 🔥 Evoluir como Desenvolvedor Full Stack
-* 🔐 Especialização em Cibersegurança
-* 🌐 Construção de aplicações modernas e seguras
-* 📚 Aprendizado contínuo em tecnologias web
-* 🚀 Participação em projetos reais e open source
+*  Evoluir como Desenvolvedor Full Stack
+*  Especialização em Cibersegurança
+*  Construção de aplicações modernas e seguras
+*  Aprendizado contínuo em tecnologias web
+*  Participação em projetos reais e open source
 
 ---
 
-# 🌎 Conecte-se comigo
+#  Conecte-se comigo
 
 <div align="center">
 
@@ -104,7 +102,7 @@ Atualmente, busco oportunidades para ganhar experiência prática, colaborar em 
 
 ---
 
-# 🧠 Atualmente aprendendo
+#  Atualmente aprendendo
 
 ```txt
 [███████████████░░░░░] Full Stack
@@ -115,7 +113,7 @@ Atualmente, busco oportunidades para ganhar experiência prática, colaborar em 
 
 ---
 
-# 🧩 Soft Skills
+#  Soft Skills
 
 ✔️ Comunicação clara
 ✔️ Facilidade em aprender novas tecnologias
@@ -126,7 +124,7 @@ Atualmente, busco oportunidades para ganhar experiência prática, colaborar em 
 
 ---
 
-# ⚡ Diferenciais
+#  Diferenciais
 
 ✔️ Interfaces modernas e responsivas
 ✔️ Foco em experiência do usuário (UI/UX)
@@ -138,7 +136,7 @@ Atualmente, busco oportunidades para ganhar experiência prática, colaborar em 
 
 <div align="center">
 
-### 🚀 Transformando aprendizado em soluções reais através da tecnologia.
+### Transformando aprendizado em soluções reais através da tecnologia.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer" />
 
